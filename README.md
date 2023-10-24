@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Parz1val02&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Parz1val02&layout=compact&theme=tokyonight&langs_count=8)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Parz1val02&layout=compact&theme=tokyonight&langs_count=10)]()
 <!--
 **Parz1val02/Parz1val02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
