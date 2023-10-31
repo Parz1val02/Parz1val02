@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Parz1val02&theme=tokyonight&showicons=true&count_private=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Parz1val02&layout=compact&theme=tokyonight&langs_count=8)]()
 <!--
