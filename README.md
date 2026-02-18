@@ -35,8 +35,3 @@ A cloud-native **Operations & Maintenance (O&M) module** for 4G/5G core testbeds
 </p>
 
 ---
-
-## 🛠 Tech Stack
-
-Go • Docker • Prometheus • Grafana • Kubernetes • 5G Core • Playwright
-
