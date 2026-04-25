@@ -1,6 +1,6 @@
 <h1 align="center">Rodrigo Barrios</h1>
 <p align="center">
-Telecommunications Engineer • 4G/5G • Golang • Observability • QA Automation
+Telecommunications Engineer • 4G/5G • Observability • QA Automation
 </p>
 
 ---
@@ -13,7 +13,6 @@ A cloud-native **Operations & Maintenance (O&M) module** for 4G/5G core testbeds
 - 📜 Centralized log monitoring
 - 🔎 Observability for AMF, SMF, UPF and RAN components
 - 🐳 Docker-based deployment
-- ⚙️ Built in Go
 
 <p align="center">
   <img src="./profile/pin-om-module.svg" />
