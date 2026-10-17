@@ -3,16 +3,6 @@
 Telecommunications Engineer • 4G/5G • Observability
 </p>
 
----
-
-## 🚀 OM Module
-
-<p align="center">
-  <img src="./profile/pin-om-module.svg" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
