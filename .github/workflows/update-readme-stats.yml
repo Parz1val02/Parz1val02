@@ -29,7 +29,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&exclude_repo=Medical-TEC,MonitoringPUCP
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&exclude_repo=Medical-TEC,MonitoringPUCP&hide=css
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
